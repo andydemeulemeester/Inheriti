@@ -12,16 +12,16 @@ Features:
 
  * 100% Decentralised by using a 3-Layer Segmentation topology
     - Blockchain (containing the validators and DMS shares)
-    - Cold Storage (Beneficiaries shares + PK for decrypting the Blockchain shares in conjunction with the Cloud stored passphrase)
+    - Cold Storage (Beneficiaries shares + PK for decrypting the blockchain shares in conjunction with the cloud stored passphrase)
     - Cloud (Passphrase for private key decryption)
- * Comet wallet integration
- * SafeKey Intergation
+ * Comet Wallet integration
+ * SafeKey integration
 
- Protection plans:
+ Protection Plans:
 
- * TFC > The Family Cirlce
+ * TFC > The Family Circle
 
- Death Man switches (DMS):
+ Activation Methods (Death Man Switches (DMS)):
 
  * Login
  * Mail
@@ -29,5 +29,5 @@ Features:
 SHA Utility & Payment Methods
 
  * SafeTech MPP node server
-    - Cost of protection plan creation : 10.000 (10,000) SHA 
-    - Cost per added store [additions to basic plan] : 1.000 (1,000) SHA (Backup Shares, Backup Validators Shares, ...)
+    - Cost of protection plan creation: 10.000 (10,000) SHA 
+    - Cost per added store [additions to basic plan] : 1.000 (1,000) SHA (Backup Shares, Backup Validator Shares,...)
